@@ -2,3 +2,5 @@ mango
 oranage
 apple
 kawi
+pineapple
+strawbeeries
